@@ -1,0 +1,6 @@
+echo "# NUT_REG_ALIMENTOS" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/proyectclinicos2018/NUT_REG_ALIMENTOS.git
+git push -u origin master
